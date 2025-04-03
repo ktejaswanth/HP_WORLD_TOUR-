@@ -66,7 +66,7 @@ const Contact = () => {
                 <Phone size={24} />
               </div>
               <h3 className="text-xl font-semibold mb-2">Phone</h3>
-              <p className="text-gray-600">+1 (800) 123-4567</p>
+              <p className="text-gray-600">+91 8688088449</p>
               <p className="text-gray-600">Mon-Fri: 9am - 6pm</p>
             </CardContent>
           </Card>
@@ -88,8 +88,8 @@ const Contact = () => {
                 <MapPin size={24} />
               </div>
               <h3 className="text-xl font-semibold mb-2">Location</h3>
-              <p className="text-gray-600">123 Travel Street</p>
-              <p className="text-gray-600">New York, NY 10001</p>
+              <p className="text-gray-600">AP, India</p>
+              <p className="text-gray-600"></p>
             </CardContent>
           </Card>
         </div>
